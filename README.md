@@ -2,6 +2,8 @@
 
 Organisers: Intertwining Arts team: Elina Akselrud, Dilectiss Liu, Alex Bauer
 
+Please contribute to the database freely and send the .csv file to Dilectiss Liu: dilectiss.liu@pm.me
+
 A shared database for volunteers and Ukrainian artists who would offer/need resources
 
 The organisers are responsible for maintaining and organising the databse
