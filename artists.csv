@@ -1,2 +1,6 @@
-Name,Field,Location,Requests
-Example,piano,Warsaw,practice room; work; music education
+Data_ID,Name,Field,Location,Requests,Contact
+0,Example 0,piano,Warsaw,practice room,example@email.me
+0,Example 0,piano,Warsaw,work,example@email.me
+0,Example 0,photography,Warsaw,work,example@email.me
+1,Example 1,cello,Paris,lessons,+000 00 000 000
+1,Example 1,cello,Paris,accomodation,+000 00 000 000 
