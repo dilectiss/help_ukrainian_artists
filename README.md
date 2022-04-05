@@ -16,6 +16,6 @@ Artists can contact each other for collaboration projects
 
 Volunteers/organisations can also use this database to contact each other in order to pool resources
 
-Volunteers in the database also act as nodes/contact points for other resources they might hvae access to
+Volunteers in the database also act as nodes/contact points for other resources they might have access to
 
 The readme is updated as required
